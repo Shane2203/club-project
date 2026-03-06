@@ -16,7 +16,7 @@ public class Club
     public Club()
     {
         // Initialise any fields here ...
-        members=new ArrayList<Membership>();
+        members=new ArrayList<>();
     }
 
     /**
